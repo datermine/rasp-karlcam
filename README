@@ -12,6 +12,14 @@ Things you will need:
 
 You can follow these instructions: https://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi/overview
 
+In general:
++ Get Raspbian: http://www.raspberrypi.org/downloads/
++ Use this to load it onto the SD card: https://github.com/RayViljoen/Raspberry-PI-SD-Installer-OS-X
++ Don't fuck up and wipe your machine instead of the SD
+
+MAKE SURE YOU DON'T HAVE THE PHYSICAL WRITE-LOCK ON THE CARD SET.
+YOU WILL HATE YOURSELF. AND THE WORLD. AND ALL EXISTENCE FOR THE 30 MINUTES IT TRIPS YOU UP.
+
 2) Follow the instructions here starting at Connect via SSH:
 
 http://www.codeproject.com/Articles/665518/Raspberry-Pi-as-low-cost-HD-surveillance-camera
