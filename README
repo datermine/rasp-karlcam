@@ -1,0 +1,13 @@
+Below are instructions for setting up your very own Karl (Duddfield) cam.
+
+Things you will need:
+* Karl Duddfield (1)
+* Raspberry Pi (1)
+* Raspberry Pi Camera (1)
+* SD Card
+* WiFi Shield
+* Power source for Raspberry Pi
+
+1) Set up your Pi with Raspbian.
+
+You can follow these instructions: https://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi/overview
