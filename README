@@ -23,3 +23,12 @@ YOU WILL HATE YOURSELF. AND THE WORLD. AND ALL EXISTENCE FOR THE 30 MINUTES IT T
 2) Follow the instructions here starting at Connect via SSH:
 
 http://www.codeproject.com/Articles/665518/Raspberry-Pi-as-low-cost-HD-surveillance-camera
+
+In general:
++ Get nmap
++ Figure out the IP of the R-PI using nmap: sudo nmap -sP 192.168.0.2-254
++ ssh <ip> -l pi
++ use password: raspberry
+
+...and then:
+
